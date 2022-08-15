@@ -72,7 +72,7 @@ function Contact() {
   ];
   return (
     <Core>
-      <Title>Contactame a travez de:</Title>
+      <Title>Contactame a traves de:</Title>
       <div className="flex">
         <Section className="fadeInDown flex">
           {SocialMediaArray.map((element, index) => {

@@ -9,45 +9,45 @@ function Services() {
       <Section className="fadeInDown">
         <Title>Experiencia Laboral</Title>
         <Parrafo>
-          Mi primera Experieincia laboral se enfoco en la realizacion de una
+          Mi primera Experiencia laboral se enfocó en la realización de una
           Landing Page para una empresa en Argentina, use varias herramientas..
-          Principalmente se utilizo JQuery a peticion del cliente y yo use
-          Herramientas como Bootstrap para la realizacion de los estilos. Debido
-          a que era una pagina simplemente informativa, no fue requerido
-          utilizar herramientas como AJAX para las conexion con algun tipo de
+          Principalmente se utilizó JQuery a petición del cliente y yo use
+          Herramientas como Bootstrap para la realización de los estilos. Debido
+          a que era una página simplemente informativa, no fue requerido
+          utilizar herramientas como AJAX para las conexión con algún tipo de
           API.
           <br />
           <br />
           Luego de esa primera experiencia, estuve trabajando con una empresa en
-          Guatemala llamada DETRADI, la cual tenia clientes que a veces
-          requerian tener un ambiente administrador para la visualizacion de los
+          Guatemala llamada DETRADI, la cual tenía clientes que a veces
+          requerían tener un ambiente administrador para la visualización de los
           datos de sus clientes.
           <br />
           <br />
           En esta oportunidad si estuve trabajando con React.js utilizando
-          herramientas como Tailwind CSS y SCSS. En este proyecto si requeriamos
-          utilizar Axios para la peticiones a la API. Ese CMS que se realizao
-          fue un template general para todos los clientes de la empresay se iba
+          herramientas como Tailwind CSS y SCSS. En este proyecto si requerimos
+          utilizar Axios para las peticiones a la API. Este CMS que se realizó
+          fue un template general para todos los clientes de la empresa y se iba
           adaptando de acuerdo a las necesidades de cada cliente.
           <br />
           <br />
           Luego de eso, estuve trabajando en una empresa con sede en Venezuela,
-          con la tecnologia Vue.js, la cual desarrollamos una blockchain operada
+          con la tecnología Vue.js, la cual desarrollamos una blockchain operada
           por la Bolsa de Valores Descentralizada de Venezuela. Se pueden
           realizar Intercambio de monedas, Recargas, transferencias a otros
           usuarios.
           <br />
           <br />
-          En dicho proyecto estuve realizando cambios repentinos que surgian del
-          dia a dia de la empresa. Y estuve llevando un modulo de notificaciones
-          conectado a un socket.io. Tambien realice varios cambios en el Home de
-          la aplicacion principal con un diseño proporcionado por el
-          departamento de diseño. Tambien fui adaptando por modulos la web en
+          En dicho proyecto estuve realizando cambios repentinos que surgían del
+          día a día de la empresa. Y estuve llevando un módulo de notificaciones
+          conectado a un socket.io. También realizó varios cambios en el Home de
+          la aplicación principal con un diseño proporcionado por el
+          departamento de diseño. También fui adaptando por módulos la web en
           responsive.
           <br />
           <br />
-          En dicha empresa tambien estuve trabajando en una aplicacion entera,
-          haciendo una migracion del sistema administrativo de la plataforma
+          En dicha empresa también estuve trabajando en una aplicación entera,
+          haciendo una migración del sistema administrativo de la plataforma
           principal. Para los estilos se usaba Tailwind CSS y SCSS
           <br />
           Pueden visitarlos en:

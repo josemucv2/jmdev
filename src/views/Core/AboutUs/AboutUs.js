@@ -9,33 +9,33 @@ function AboutUs() {
         <Section className="fadeInDown">
           <Title>Espero te encuentras bien</Title>
           <Parrafo>
-            Antes que nada me gustaria presentarme, mi nombre es Jose Martinez
-            soy desarrollador Fron-End desde hace aproximandamente dos años. He
-            tenido la oportunidad de trabar en varios proyectos, en los cuales
-            han sido de gran gartificacion para las personas con las que he
-            trabajado. En las oportunidades que he trbajado he trabajado con las
-            tecnologias mas usadas en el mundo.
+            Antes que nada me gustaría presentarme, mi nombre es Jose Martinez
+            soy desarrollador Front-End desde hace aproximadamente dos años. He
+            tenido la oportunidad de trabajar en varios proyectos, en los cuales
+            han sido de gran gratificación para las personas con las que he
+            trabajado. He tenido la gran satisfacción de trabajar con las
+            tecnologías más usadas en el mundo.
             <br />
             <br />
-            Con React.JS (tecnologia con la que esta hecha esta web), haciendo
-            un dos CMS conectados con Firebsae trajando con el context que
-            proporciona la herramienta. Tambien he tenido la oportunidad de
-            hacer un E-commerce como proyecto de estudio, conectado tambien con
-            firebase.
+            Con React.JS (tecnología con la que está hecha esta web), haciendo
+            un dos CMS conectados con Firebase trabajando con el context que
+            proporciona la herramienta. También he tenido la oportunidad de
+            hacer un E-commerce como proyecto de estudio, conectado también con
+            Firebase.
             <br />
             <br />
-            Con Vue.JS he tenido la oportunidad de crear varios modulos directos
-            a produccion de una Blockchain con sockets.io, y realizando la
-            construccion de un CMS de dicha Blockchain llamada Central+
+            Con Vue.JS he tenido la oportunidad de crear varios módulos directos
+            a producción de una Blockchain con sockets.io, y realizando la
+            construcción de un CMS de dicha Blockchain llamada Central+
             <br />
             <br />
-            Tambien tengo conocmientos con JQuery, que a pesar que actualmente
+            También tengo conocimientos con JQuery, que a pesar que actualmente
             no es muy demandada, me tome el tiempo para tener los conocimientos
-            basicos de dicha libreria. Como modo de practica y profundizar el
+            básicos de dicha librería. Como modo de práctica y profundizar los
             conocimientos hice varias pruebas de landings realizadas en JQuery.
             <br />
             <br />
-            Con todas las tecnologias ya mencionadas he trabajado de la mano con
+            Con todas las tecnologías ya mencionadas he trabajado de la mano con
             herramientas como Bootstrap, SCSS, Styled Compontent (React),
             Tailwind CSS y, claramente no puede faltar,Git de forma local y
             GitHub de forma remota.
@@ -43,9 +43,9 @@ function AboutUs() {
             <br />
             Tengo habilidades fuera del code como:
             <ItemBoxList className="list-disc space-y-5">
-              <li>Habilidades para la resolucione de problemas</li>
-              <li>Capacidad de analisis</li>
-              <li>Trabajo mediante Metodoligas agiles (SCRUM)</li>
+              <li>Habilidades para la resolución de problemas</li>
+              <li>Capacidad de análisis</li>
+              <li>Trabajo mediante Metodologías ágiles (SCRUM)</li>
               <li>Trabajo en equipo</li>
             </ItemBoxList>
             <br />
