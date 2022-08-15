@@ -1,0 +1,121 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    font-family: 'Noto Sans', sans-serif;
+    color: white;
+}
+
+::-webkit-scrollbar {
+    width: 8px;
+    /* Tamaño del scroll en vertical */
+    height: 8px;
+    /* Tamaño del scroll en horizontal */
+}
+
+::-webkit-scrollbar-thumb {
+    background: transparent;
+    border-radius: 4px;
+}
+
+/* Cambiamos el fondo y agregamos una sombra cuando esté en hover */
+::-webkit-scrollbar-thumb:hover {
+    background: transparent;
+    box-shadow: 0 0 2px 1px rgba(0, 0, 0, 0.2);
+}
+
+/* Cambiamos el fondo cuando esté en active */
+::-webkit-scrollbar-thumb:active {
+    background-color: transparent;
+}
+
+::-webkit-scrollbar-track {
+    background: transparent;
+    border-radius: 4px;
+}
+
+/* Cambiamos el fondo cuando esté en active o hover */
+::-webkit-scrollbar-track:hover,
+::-webkit-scrollbar-track:active {
+    background: transparent;
+}
+
+body {
+    background-image: url('../image/closeup-of-computer-screen-of-software-developer-typing-programming-language-in-it-startup-agency-display-concept-of-system-engineer-writing-source-code-scrolling-text-of-database-functions-script.jpg');
+    width: 100%;
+    background-size: 100% 100%;
+
+}
+
+.sacarColor {
+    border: 1px solid rgba(0, 0, 0, 0.445);
+}
+
+.fadeInDown {
+    -webkit-animation-name: fadeInDown;
+    animation-name: fadeInDown;
+    -webkit-animation-duration: 1s;
+    animation-duration: 1s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+}
+
+@-webkit-keyframes fadeInDown {
+    0% {
+        opacity: 0;
+        -webkit-transform: translate3d(0, -100%, 0);
+        transform: translate3d(0, -100%, 0);
+    }
+
+    100% {
+        opacity: 1;
+        -webkit-transform: none;
+        transform: none;
+    }
+}
+
+@keyframes fadeInDown {
+    0% {
+        opacity: 0;
+        -webkit-transform: translate3d(0, -100%, 0);
+        transform: translate3d(0, -100%, 0);
+    }
+
+    100% {
+        opacity: 1;
+        -webkit-transform: none;
+        transform: none;
+    }
+}
+
+
+@media only screen and (max-width: 768px) {
+    .SectionResponsive {
+        width: 100% !important;
+    }
+
+    .mainClosed {
+        display: flex !important;
+    }
+
+    .mainOpen {
+        display: none;
+    }
+}
+
+.mainClosed {
+    width: 50px;
+    border: 1px solid white;
+    height: 60px;
+    display: none;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.isActive{
+    border-bottom: 1px solid white !important;
+}
