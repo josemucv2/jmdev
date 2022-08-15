@@ -15,7 +15,7 @@ function FixedComponent() {
       <BoxingHello>
         <Hello>Hola,</Hello>
         <Description>
-          soy desarrollador Front End, con experiencia en las tecnologias mas
+          soy desarrollador Front End, con experiencia en las tecnologías más
           usadas en el mundo, React.js y Vue.js
         </Description>
         <div className="w-full flex space-x-5 justify-center">
