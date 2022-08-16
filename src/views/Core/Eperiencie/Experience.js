@@ -51,7 +51,9 @@ function Services() {
           principal. Para los estilos se usaba Tailwind CSS y SCSS
           <br />
           Pueden visitarlos en:
-          <a href="https://app.centralplus.io/"> app.centralplus.io</a>
+          <a href="https://app.centralplus.io/" target="_blank">
+            app.centralplus.io
+          </a>
         </Parrafo>
       </Section>
     </Core>
