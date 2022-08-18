@@ -15,6 +15,7 @@ import IconVue from "../../../assets/icons/IconVue.svg";
 import IconTailwind from "../../../assets/icons/IconTailwind.svg";
 import IconJQuery from "../../../assets/icons/IconJquery.svg";
 import Responsive from "../../../assets/icons/Responsive.svg";
+import IconTypeScript from "../../../assets/icons/IconTypeScript.svg";
 
 function Home() {
   const TecnologiesArray = [
@@ -31,6 +32,7 @@ function Home() {
     { id: 10, Icons: IconGitHub, Texts: "Git Hub", Items: 3 },
     { id: 11, Icons: IconJQuery, Texts: "J Query", Items: 3 },
     { id: 12, Icons: IconFirebase, Texts: "Firebase", Items: 2 },
+    { id: 14, Icons: IconTypeScript, Texts: "TypeScript", Items: 1 },
   ];
 
   return (
