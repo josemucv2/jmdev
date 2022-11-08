@@ -91,7 +91,7 @@ const ItemsList = styled.li`
 
 const ItemsLink = styled.div`
   &:hover {
-    color: black;
+    text-decoration: underline;
   }
 `;
 const Parrafo = styled.p`
@@ -100,6 +100,7 @@ const Parrafo = styled.p`
 
 const SideNavContainer = styled.div`
   background-color: rgba(0, 0, 0, 0.247) !important;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.274);
 `;
 
 const OpenMain = styled.ul`

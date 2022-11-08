@@ -42,7 +42,7 @@
 }
 
 body {
-    background-image: url('../image/closeup-of-computer-screen-of-software-developer-typing-programming-language-in-it-startup-agency-display-concept-of-system-engineer-writing-source-code-scrolling-text-of-database-functions-script.jpg');
+    background: linear-gradient(180deg, #0b1955, #0c0e27 80%);
     width: 100%;
     background-size: 100% 100%;
 
@@ -116,6 +116,6 @@ body {
     cursor: pointer;
 }
 
-.isActive{
+.isActive {
     border-bottom: 1px solid white !important;
 }

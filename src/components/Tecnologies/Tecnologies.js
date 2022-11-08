@@ -6,13 +6,13 @@ function Tecnologies({ Icons, Texts, Items }) {
     <Icon>
       <img src={Icons} alt={Texts} />
       <Text>{Texts}</Text>
-      <Section className="space-x-2 my-2">
+      {/* <Section className="space-x-2 my-2">
         {1 <= Items ? <CircleBack /> : <Circle />}
         {2 <= Items ? <CircleBack /> : <Circle />}
         {3 <= Items ? <CircleBack /> : <Circle />}
         {4 <= Items ? <CircleBack /> : <Circle />}
         {5 <= Items ? <CircleBack /> : <Circle />}
-      </Section>
+      </Section> */}
     </Icon>
   );
 }
