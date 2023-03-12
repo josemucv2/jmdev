@@ -3,6 +3,8 @@ import route from "./route";
 
 import { Route, Routes } from "react-router-dom";
 
+console.log(route, "route");
+
 function Router() {
   return (
     <Routes>
@@ -10,7 +12,7 @@ function Router() {
         return (
           <Route
             path={element.path}
-            element={<element.element />}
+            element={<element.component />}
             key={index}
           />
         );

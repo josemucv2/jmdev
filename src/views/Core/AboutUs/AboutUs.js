@@ -9,36 +9,30 @@ function AboutUs() {
         <Section className="fadeInDown">
           <Title>Espero te encuentras bien</Title>
           <Parrafo>
-            Antes que nada me gustaría presentarme, mi nombre es Jose Martinez
-            soy desarrollador Front-End desde hace aproximadamente dos años. He
-            tenido la oportunidad de trabajar en varios proyectos, en los cuales
-            han sido de gran gratificación para las personas con las que he
-            trabajado. He tenido la gran satisfacción de trabajar con las
-            tecnologías más usadas en el mundo.
+            Hola, mi nombre es Jose Martinez y soy un desarrollador front end
+            especializado en React y Vue. He trabajado en varios proyectos
+            personales y profesionales, lo que me ha permitido desarrollar
+            habilidades sólidas en JavaScript, TypeScript, jQuery, Firebase,
+            Git, Github, Netlify, HTML, CSS, Tailwind, SCSS y otras herramientas
+            importantes.
             <br />
             <br />
-            Con React.JS (tecnología con la que está hecha esta web), haciendo
-            un dos CMS conectados con Firebase trabajando con el context que
-            proporciona la herramienta. También he tenido la oportunidad de
-            hacer un E-commerce como proyecto de estudio, conectado también con
-            Firebase.
+            En mi carrera, he tenido la oportunidad de trabajar en el backend
+            usando Node.js y Express.js en algunas ocasiones, lo que me ha
+            brindado una perspectiva completa sobre el proceso de desarrollo de
+            aplicaciones web.
             <br />
             <br />
-            Con Vue.JS he tenido la oportunidad de crear varios módulos directos
-            a producción de una Blockchain con sockets.io, y realizando la
-            construcción de un CMS de dicha Blockchain llamada Central+
+            Con tres años de experiencia en el desarrollo front end, me
+            considero un profesional dedicado y apasionado por mi trabajo. Me
+            encanta trabajar en equipo y tengo la capacidad de comunicar mis
+            ideas de manera clara y efectiva.
             <br />
             <br />
-            También tengo conocimientos con JQuery, que a pesar que actualmente
-            no es muy demandada, me tome el tiempo para tener los conocimientos
-            básicos de dicha librería. Como modo de práctica y profundizar los
-            conocimientos hice varias pruebas de landings realizadas en JQuery.
-            <br />
-            <br />
-            Con todas las tecnologías ya mencionadas he trabajado de la mano con
-            herramientas como Bootstrap, SCSS, Styled Compontent (React),
-            Tailwind CSS y, claramente no puede faltar,Git de forma local y
-            GitHub de forma remota.
+            Si estás buscando un desarrollador front end que pueda ofrecer
+            resultados de alta calidad en tus proyectos, no dudes en
+            contactarme. Estoy seguro de que puedo ayudarte a hacer realidad tus
+            ideas y llevar tu negocio al siguiente nivel.
             <br />
             <br />
             Tengo habilidades fuera del code como:
