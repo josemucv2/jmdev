@@ -1,19 +1,19 @@
 [[redirects]]
-  from = "/aboutUs"
+  from = "/netlify.app/aboutUs"
   to = "/aboutUs"
   status = 200
 
 [[redirects]]
-  from = "/servicios"
+  from = "netlify.app/servicios"
   to = "/servicios"
   status = 200
 
 [[redirects]]
-  from = "/contacto"
+  from = "netlify.app/contacto"
   to = "/contacto"
   status = 200
 
 [[redirects]]
-  from = "/Certificados"
+  from = "netlify.app/Certificados"
   to = "/Certificados"
   status = 200
