@@ -1,0 +1,19 @@
+[[redirects]]
+  from = "/aboutUs"
+  to = "/aboutUs"
+  status = 200
+
+[[redirects]]
+  from = "/servicios"
+  to = "/servicios"
+  status = 200
+
+[[redirects]]
+  from = "/contacto"
+  to = "/contacto"
+  status = 200
+
+[[redirects]]
+  from = "/Certificados"
+  to = "/Certificados"
+  status = 200
