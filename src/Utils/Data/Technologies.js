@@ -37,7 +37,7 @@ export const Projects = [
   {
     _id: 3,
     enterprises: "Central +",
-    description: "Aplicacion Web de compra y venta de titulos de valores",
+    description: "App de compra y venta de titulos de valores",
     image: "Central",
     url: "https://app.centralplus.io/",
   },
@@ -45,7 +45,7 @@ export const Projects = [
   {
     _id: 4,
     enterprises: "Administrador de Central +",
-    description: "Administrador principal del Centra +",
+    description: "Administrador principal del Central +",
     image: "Central",
     url: "https://admin.centralplus.io/",
   },
@@ -60,7 +60,7 @@ export const Projects = [
   {
     _id: 6,
     enterprises: "Sistema Login Personal",
-    description: "Un Proyecto Personal aplicando Firebase como DB y React",
+    description: "Login Personal aplicando Firebase como DB",
     image: "Login",
     url: "https://loginuserproject.netlify.app/",
   },
